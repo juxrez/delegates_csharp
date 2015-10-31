@@ -1,0 +1,9 @@
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\bin\Debug\Delegados.exe.config
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\bin\Debug\Delegados.exe
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\bin\Debug\Delegados.pdb
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\obj\Debug\Delegados.csprojResolveAssemblyReference.cache
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\obj\Debug\Delegados.etHora.resources
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\obj\Debug\Delegados.Properties.Resources.resources
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\obj\Debug\Delegados.csproj.GenerateResource.Cache
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\obj\Debug\Delegados.exe
+c:\users\alexisjuarez\documents\visual studio 2013\Projects\Delegados\Delegados\obj\Debug\Delegados.pdb
